@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<!-- Banner Advertisements -->
+	<Ad>
+		<ImageUrl>~/img/ad1.jpeg</ImageUrl>
+		<Width>100</Width>
+		<Height>100</Height>
+		<NavigateUrl>http://www.mno.com</NavigateUrl>
+		<AlternateText>Banner Advertisement 1</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/img/ad2.jpeg</ImageUrl>
+		<Width>100</Width>
+		<Height>100</Height>
+		<NavigateUrl>http://www.xyz.com</NavigateUrl>
+		<AlternateText>Banner Advertisement 2</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/img/ad3.jpeg</ImageUrl>
+		<Width>100</Width>
+		<Height>100</Height>
+		<NavigateUrl>http://www.abc.com</NavigateUrl>
+		<AlternateText>Banner Advertisement 3</AlternateText>
+		<Impressions>20</Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>~/img/ad4.jpeg</ImageUrl>
+		<Width>100</Width>
+		<Height>100</Height>
+		<NavigateUrl>https://www.mcdonalds.mu/</NavigateUrl>
+		<AlternateText>Banner Advertisement 4</AlternateText>
+		<Impressions>40</Impressions>
+	</Ad>
+</Advertisements>
+
